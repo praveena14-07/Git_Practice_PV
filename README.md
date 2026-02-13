@@ -5,3 +5,4 @@ Adding one more line to check token
 Adding second line for pull option directly on github
 checking how to make token as default
 checking to see if it is passwordless or not
+This line is being added to see a merge conflict
