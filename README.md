@@ -9,3 +9,4 @@ This line is being added to see a merge conflict
 I have pulled and updated my branches to avaoid merge conflict
 
 We are creating tags to check how tagging works
+added secon tag
